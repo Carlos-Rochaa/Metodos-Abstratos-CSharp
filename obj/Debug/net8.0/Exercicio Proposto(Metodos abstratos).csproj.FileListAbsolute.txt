@@ -1,0 +1,14 @@
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\bin\Debug\net8.0\Exercicio Proposto(Metodos abstratos).exe
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\bin\Debug\net8.0\Exercicio Proposto(Metodos abstratos).deps.json
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\bin\Debug\net8.0\Exercicio Proposto(Metodos abstratos).runtimeconfig.json
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\bin\Debug\net8.0\Exercicio Proposto(Metodos abstratos).dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\bin\Debug\net8.0\Exercicio Proposto(Metodos abstratos).pdb
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\obj\Debug\net8.0\Exercicio Proposto(Metodos abstratos).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\obj\Debug\net8.0\Exercicio Proposto(Metodos abstratos).AssemblyInfoInputs.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\obj\Debug\net8.0\Exercicio Proposto(Metodos abstratos).AssemblyInfo.cs
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\obj\Debug\net8.0\Exercicio Proposto(Metodos abstratos).csproj.CoreCompileInputs.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\obj\Debug\net8.0\Exercicio Proposto(Metodos abstratos).dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\obj\Debug\net8.0\refint\Exercicio Proposto(Metodos abstratos).dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\obj\Debug\net8.0\Exercicio Proposto(Metodos abstratos).pdb
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\obj\Debug\net8.0\Exercicio Proposto(Metodos abstratos).genruntimeconfig.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Exercicio Proposto(Metodos abstratos)\Exercicio Proposto(Metodos abstratos)\obj\Debug\net8.0\ref\Exercicio Proposto(Metodos abstratos).dll
